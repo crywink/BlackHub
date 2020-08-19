@@ -1,7 +1,5 @@
 # BlackHub
-A command line framework for Roblox! :)
+An expandable single-script command line framework for Roblox.
 
-Designed to be extremely easy to use.
-
-
-View it in action: https://i.gyazo.com/f277ee93c83d61cc4881c6cb937f08ee.mp4
+- Supports argument types (player, string, integer, bool, float)
+- Tips on commands and arguments as you're typing.
